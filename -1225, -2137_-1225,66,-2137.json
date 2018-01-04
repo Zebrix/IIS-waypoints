@@ -1,0 +1,17 @@
+{
+  "id": "-1225, -2137_-1225,66,-2137",
+  "name": "-1225, -2137",
+  "icon": "waypoint-normal.png",
+  "x": -1225,
+  "y": 66,
+  "z": -2137,
+  "r": 177,
+  "g": 243,
+  "b": 74,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

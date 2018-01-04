@@ -1,0 +1,17 @@
+{
+  "id": "Nd_-1225,115,-1849",
+  "name": "Nd",
+  "icon": "waypoint-normal.png",
+  "x": -1225,
+  "y": 115,
+  "z": -1849,
+  "r": 255,
+  "g": 255,
+  "b": 255,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

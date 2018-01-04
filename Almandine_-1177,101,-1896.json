@@ -1,0 +1,17 @@
+{
+  "id": "Almandine_-1177,101,-1896",
+  "name": "Almandine",
+  "icon": "waypoint-normal.png",
+  "x": -1177,
+  "y": 101,
+  "z": -1896,
+  "r": 255,
+  "g": 243,
+  "b": 251,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

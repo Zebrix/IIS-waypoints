@@ -1,0 +1,17 @@
+{
+  "id": "Lepidolite_-1273,91,-1896",
+  "name": "Lepidolite",
+  "icon": "waypoint-normal.png",
+  "x": -1273,
+  "y": 91,
+  "z": -1896,
+  "r": 255,
+  "g": 255,
+  "b": 255,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Th_-1321,87,-1848",
+  "name": "Th",
+  "icon": "waypoint-normal.png",
+  "x": -1321,
+  "y": 87,
+  "z": -1848,
+  "r": 255,
+  "g": 255,
+  "b": 255,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}
