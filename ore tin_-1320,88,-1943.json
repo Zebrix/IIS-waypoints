@@ -1,0 +1,17 @@
+{
+  "id": "ore tin_-1320,88,-1943",
+  "name": "ore tin",
+  "icon": "waypoint-normal.png",
+  "x": -1320,
+  "y": 88,
+  "z": -1943,
+  "r": 42,
+  "g": 255,
+  "b": 36,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

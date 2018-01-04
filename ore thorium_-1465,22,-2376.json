@@ -1,0 +1,17 @@
+{
+  "id": "ore thorium_-1465,22,-2376",
+  "name": "ore thorium",
+  "icon": "waypoint-normal.png",
+  "x": -1465,
+  "y": 22,
+  "z": -2376,
+  "r": 0,
+  "g": 187,
+  "b": 21,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

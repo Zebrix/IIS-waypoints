@@ -1,0 +1,17 @@
+{
+  "id": "ore limonite_-1463,25,-2135",
+  "name": "ore limonite",
+  "icon": "waypoint-normal.png",
+  "x": -1463,
+  "y": 25,
+  "z": -2135,
+  "r": 18,
+  "g": 228,
+  "b": 0,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

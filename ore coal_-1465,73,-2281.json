@@ -1,0 +1,17 @@
+{
+  "id": "ore coal_-1465,73,-2281",
+  "name": "ore coal",
+  "icon": "waypoint-normal.png",
+  "x": -1465,
+  "y": 73,
+  "z": -2281,
+  "r": 26,
+  "g": 248,
+  "b": 0,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

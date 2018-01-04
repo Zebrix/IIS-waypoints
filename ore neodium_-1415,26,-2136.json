@@ -1,0 +1,17 @@
+{
+  "id": "ore neodium_-1415,26,-2136",
+  "name": "ore neodium",
+  "icon": "waypoint-normal.png",
+  "x": -1415,
+  "y": 26,
+  "z": -2136,
+  "r": 111,
+  "g": 130,
+  "b": 55,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

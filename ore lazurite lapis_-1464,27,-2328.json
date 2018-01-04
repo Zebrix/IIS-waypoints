@@ -1,0 +1,17 @@
+{
+  "id": "ore lazurite lapis_-1464,27,-2328",
+  "name": "ore lazurite lapis",
+  "icon": "waypoint-normal.png",
+  "x": -1464,
+  "y": 27,
+  "z": -2328,
+  "r": 28,
+  "g": 255,
+  "b": 33,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

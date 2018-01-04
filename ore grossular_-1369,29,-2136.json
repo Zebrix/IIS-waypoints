@@ -1,0 +1,17 @@
+{
+  "id": "ore grossular_-1369,29,-2136",
+  "name": "ore grossular",
+  "icon": "waypoint-normal.png",
+  "x": -1369,
+  "y": 29,
+  "z": -2136,
+  "r": 42,
+  "g": 255,
+  "b": 36,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

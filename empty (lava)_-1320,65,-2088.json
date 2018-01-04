@@ -1,0 +1,17 @@
+{
+  "id": "empty (lava)_-1320,65,-2088",
+  "name": "empty (lava)",
+  "icon": "waypoint-normal.png",
+  "x": -1320,
+  "y": 65,
+  "z": -2088,
+  "r": 255,
+  "g": 13,
+  "b": 36,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

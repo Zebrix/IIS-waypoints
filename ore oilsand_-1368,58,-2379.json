@@ -1,0 +1,17 @@
+{
+  "id": "ore oilsand_-1368,58,-2379",
+  "name": "ore oilsand",
+  "icon": "waypoint-normal.png",
+  "x": -1368,
+  "y": 58,
+  "z": -2379,
+  "r": 1,
+  "g": 251,
+  "b": 22,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

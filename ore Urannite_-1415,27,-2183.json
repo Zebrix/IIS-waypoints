@@ -1,0 +1,17 @@
+{
+  "id": "ore Urannite_-1415,27,-2183",
+  "name": "ore Urannite",
+  "icon": "waypoint-normal.png",
+  "x": -1415,
+  "y": 27,
+  "z": -2183,
+  "r": 113,
+  "g": 255,
+  "b": 86,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

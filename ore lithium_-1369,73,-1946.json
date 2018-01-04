@@ -1,0 +1,17 @@
+{
+  "id": "ore lithium_-1369,73,-1946",
+  "name": "ore lithium",
+  "icon": "waypoint-normal.png",
+  "x": -1369,
+  "y": 73,
+  "z": -1946,
+  "r": 26,
+  "g": 248,
+  "b": 0,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}
