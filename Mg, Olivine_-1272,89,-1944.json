@@ -1,0 +1,17 @@
+{
+  "id": "Mg, Olivine_-1272,89,-1944",
+  "name": "Mg, Olivine",
+  "icon": "waypoint-normal.png",
+  "x": -1272,
+  "y": 89,
+  "z": -1944,
+  "r": 247,
+  "g": 248,
+  "b": 255,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}
