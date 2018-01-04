@@ -1,0 +1,17 @@
+{
+  "id": "ore uran_-1415,35,-1943",
+  "name": "ore uran",
+  "icon": "waypoint-normal.png",
+  "x": -1415,
+  "y": 35,
+  "z": -1943,
+  "r": 1,
+  "g": 251,
+  "b": 22,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

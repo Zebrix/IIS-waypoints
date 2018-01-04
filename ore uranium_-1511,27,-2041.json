@@ -1,0 +1,17 @@
+{
+  "id": "ore uranium_-1511,27,-2041",
+  "name": "ore uranium",
+  "icon": "waypoint-normal.png",
+  "x": -1511,
+  "y": 27,
+  "z": -2041,
+  "r": 42,
+  "g": 255,
+  "b": 36,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

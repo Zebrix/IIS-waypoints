@@ -1,0 +1,17 @@
+{
+  "id": "ore lazurite_-1512,47,-1992",
+  "name": "ore lazurite",
+  "icon": "waypoint-normal.png",
+  "x": -1512,
+  "y": 47,
+  "z": -1992,
+  "r": 28,
+  "g": 255,
+  "b": 33,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

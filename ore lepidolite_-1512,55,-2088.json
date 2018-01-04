@@ -1,0 +1,17 @@
+{
+  "id": "ore lepidolite_-1512,55,-2088",
+  "name": "ore lepidolite",
+  "icon": "waypoint-normal.png",
+  "x": -1512,
+  "y": 55,
+  "z": -2088,
+  "r": 14,
+  "g": 242,
+  "b": 0,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}
