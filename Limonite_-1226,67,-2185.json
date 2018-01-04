@@ -1,0 +1,17 @@
+{
+  "id": "Limonite_-1226,67,-2185",
+  "name": "Limonite",
+  "icon": "waypoint-normal.png",
+  "x": -1226,
+  "y": 67,
+  "z": -2185,
+  "r": 234,
+  "g": 234,
+  "b": 255,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

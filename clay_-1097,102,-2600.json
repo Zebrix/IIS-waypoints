@@ -1,0 +1,17 @@
+{
+  "id": "clay_-1097,102,-2600",
+  "name": "clay",
+  "icon": "waypoint-normal.png",
+  "x": -1097,
+  "y": 102,
+  "z": -2600,
+  "r": 161,
+  "g": 255,
+  "b": 237,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

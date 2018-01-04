@@ -1,0 +1,17 @@
+{
+  "id": "Uranium_-1079,67,-2040",
+  "name": "Uranium",
+  "icon": "waypoint-normal.png",
+  "x": -1079,
+  "y": 67,
+  "z": -2040,
+  "r": 253,
+  "g": 252,
+  "b": 255,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}
