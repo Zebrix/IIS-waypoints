@@ -1,0 +1,17 @@
+{
+  "id": "Pt_-1129,71,-2088",
+  "name": "Pt",
+  "icon": "waypoint-normal.png",
+  "x": -1129,
+  "y": 71,
+  "z": -2088,
+  "r": 254,
+  "g": 255,
+  "b": 254,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}
