@@ -1,17 +1,17 @@
 {
-  "id": "Lignite_-1320,120,-1897",
-  "name": "Lignite",
+  "id": "NQ_-968,128,-2496",
+  "name": "NQ",
   "icon": "waypoint-normal.png",
-  "x": -1320,
-  "y": 120,
-  "z": -1897,
-  "r": 253,
-  "g": 252,
+  "x": -968,
+  "y": 128,
+  "z": -2496,
+  "r": 235,
+  "g": 245,
   "b": 255,
   "enable": true,
   "type": "Normal",
   "origin": "JourneyMap",
   "dimensions": [
-    0
+    -1
   ]
 }

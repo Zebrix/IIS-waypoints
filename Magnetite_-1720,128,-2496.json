@@ -1,17 +1,17 @@
 {
-  "id": "Lignite_-1320,120,-1897",
-  "name": "Lignite",
+  "id": "Magnetite_-1720,128,-2496",
+  "name": "Magnetite",
   "icon": "waypoint-normal.png",
-  "x": -1320,
-  "y": 120,
-  "z": -1897,
-  "r": 253,
-  "g": 252,
+  "x": -1720,
+  "y": 128,
+  "z": -2496,
+  "r": 244,
+  "g": 239,
   "b": 255,
   "enable": true,
   "type": "Normal",
   "origin": "JourneyMap",
   "dimensions": [
-    0
+    -1
   ]
 }

@@ -1,17 +1,17 @@
 {
-  "id": "Almandine_-1177,101,-1896",
-  "name": "Almandine",
+  "id": "LLava_-1344,128,-2880",
+  "name": "LLava",
   "icon": "waypoint-normal.png",
-  "x": -1177,
-  "y": 101,
-  "z": -1896,
+  "x": -1344,
+  "y": 128,
+  "z": -2880,
   "r": 255,
-  "g": 243,
-  "b": 251,
+  "g": 58,
+  "b": 95,
   "enable": true,
   "type": "Normal",
   "origin": "JourneyMap",
   "dimensions": [
-    0
+    -1
   ]
 }

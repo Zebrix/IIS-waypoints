@@ -8,7 +8,7 @@
   "r": 174,
   "g": 9,
   "b": 0,
-  "enable": false,
+  "enable": true,
   "type": "Normal",
   "origin": "JourneyMap",
   "dimensions": [

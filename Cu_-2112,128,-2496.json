@@ -1,17 +1,17 @@
 {
-  "id": "Almandine_-1177,101,-1896",
-  "name": "Almandine",
+  "id": "Cu_-2112,128,-2496",
+  "name": "Cu",
   "icon": "waypoint-normal.png",
-  "x": -1177,
-  "y": 101,
-  "z": -1896,
+  "x": -2112,
+  "y": 128,
+  "z": -2496,
   "r": 255,
-  "g": 243,
-  "b": 251,
+  "g": 67,
+  "b": 62,
   "enable": true,
   "type": "Normal",
   "origin": "JourneyMap",
   "dimensions": [
-    0
+    -1
   ]
 }
