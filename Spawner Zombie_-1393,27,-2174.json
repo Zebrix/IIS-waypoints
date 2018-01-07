@@ -1,0 +1,17 @@
+{
+  "id": "Spawner Zombie_-1393,27,-2174",
+  "name": "Spawner Zombie",
+  "icon": "waypoint-normal.png",
+  "x": -1393,
+  "y": 27,
+  "z": -2174,
+  "r": 218,
+  "g": 255,
+  "b": 109,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}
