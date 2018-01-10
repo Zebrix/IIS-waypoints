@@ -1,0 +1,17 @@
+{
+  "id": "Spessartine, Grosular_-1032,67,-1846",
+  "name": "Spessartine, Grosular",
+  "icon": "waypoint-normal.png",
+  "x": -1032,
+  "y": 67,
+  "z": -1846,
+  "r": 255,
+  "g": 255,
+  "b": 255,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}
