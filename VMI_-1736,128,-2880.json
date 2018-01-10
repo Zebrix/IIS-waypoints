@@ -1,0 +1,17 @@
+{
+  "id": "VMI_-1736,128,-2880",
+  "name": "VMI",
+  "icon": "waypoint-normal.png",
+  "x": -1736,
+  "y": 128,
+  "z": -2880,
+  "r": 248,
+  "g": 255,
+  "b": 250,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    -1
+  ]
+}

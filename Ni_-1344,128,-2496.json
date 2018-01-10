@@ -1,0 +1,17 @@
+{
+  "id": "Ni_-1344,128,-2496",
+  "name": "Ni",
+  "icon": "waypoint-normal.png",
+  "x": -1344,
+  "y": 128,
+  "z": -2496,
+  "r": 253,
+  "g": 252,
+  "b": 255,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    -1
+  ]
+}
