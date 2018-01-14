@@ -1,0 +1,17 @@
+{
+  "id": "VM_-984,71,-2616",
+  "name": "VM",
+  "icon": "waypoint-normal.png",
+  "x": -984,
+  "y": 71,
+  "z": -2616,
+  "r": 242,
+  "g": 255,
+  "b": 252,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

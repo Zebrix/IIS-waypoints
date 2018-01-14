@@ -1,0 +1,17 @@
+{
+  "id": "Lazuli_-985,66,-2280",
+  "name": "Lazuli",
+  "icon": "waypoint-normal.png",
+  "x": -985,
+  "y": 66,
+  "z": -2280,
+  "r": 253,
+  "g": 252,
+  "b": 255,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

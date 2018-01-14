@@ -1,0 +1,17 @@
+{
+  "id": "VMG_-985,67,-2137",
+  "name": "VMG",
+  "icon": "waypoint-normal.png",
+  "x": -985,
+  "y": 67,
+  "z": -2137,
+  "r": 255,
+  "g": 243,
+  "b": 251,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Ni, Co_-985,67,-1992",
+  "name": "Ni, Co",
+  "icon": "waypoint-normal.png",
+  "x": -985,
+  "y": 67,
+  "z": -1992,
+  "r": 255,
+  "g": 255,
+  "b": 255,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}
