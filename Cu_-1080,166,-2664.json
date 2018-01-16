@@ -1,0 +1,17 @@
+{
+  "id": "Cu_-1080,166,-2664",
+  "name": "Cu",
+  "icon": "waypoint-normal.png",
+  "x": -1080,
+  "y": 166,
+  "z": -2664,
+  "r": 255,
+  "g": 255,
+  "b": 255,
+  "enable": false,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}
